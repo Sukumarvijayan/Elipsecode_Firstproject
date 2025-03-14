@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="test Suite">
+<test name="test Cases" >
+<classes>
+<class name = "testNG.Assertionsexample"> </class>
+</classes>
+
+</test>
+</suite>
+
+
+<!-- <parameter name="Username" value="Suku"></parameter> -->
+<!-- <groups>
+<run>
+    <include name="Moto"></include>
+    <include name="Apple"></include>
+</run>
+</groups> -->
