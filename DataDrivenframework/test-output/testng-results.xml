@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-29T10:05:19 IST" name="Default suite" finished-at="2025-05-29T10:05:37 IST" duration-ms="18541">
+    <groups>
+    </groups>
+    <test started-at="2025-05-29T10:05:19 IST" name="Default test" finished-at="2025-05-29T10:05:37 IST" duration-ms="18541">
+      <class name="JXLJarexample.JXLJardatadriven">
+        <test-method signature="correctcredential(java.lang.String,java.lang.String)[pri:0, instance:JXLJarexample.JXLJardatadriven@2a65fe7c]" started-at="2025-05-29T10:05:19 IST" name="correctcredential" data-provider="Credential" finished-at="2025-05-29T10:05:27 IST" duration-ms="8164" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctcredential -->
+        <test-method signature="correctcredential(java.lang.String,java.lang.String)[pri:0, instance:JXLJarexample.JXLJardatadriven@2a65fe7c]" started-at="2025-05-29T10:05:27 IST" name="correctcredential" data-provider="Credential" finished-at="2025-05-29T10:05:37 IST" duration-ms="10115" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctcredential -->
+      </class> <!-- JXLJarexample.JXLJardatadriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
