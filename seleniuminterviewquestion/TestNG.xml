@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="test Suite">
+<test name="test Cases" >
+	<listeners>
+	           <listener class-name="seleniumwait.Transformer"/>
+	       </listeners>
+<classes>
+<class name = "seleniumwait.FailedTestcases"> </class>
+</classes>
+
+</test>
+</suite>
